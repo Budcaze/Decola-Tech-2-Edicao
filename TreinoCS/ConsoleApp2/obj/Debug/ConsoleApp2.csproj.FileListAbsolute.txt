@@ -1,0 +1,8 @@
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\Decola-Tech-2-Edicao\TreinoCS\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache

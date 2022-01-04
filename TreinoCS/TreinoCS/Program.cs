@@ -20,7 +20,18 @@ namespace TreinoCS
                 Console.WriteLine("Seu nome é feio");
             }
            Console.ReadLine();
-   
+
+            int[] teste = new int[4];
+            for (int c = 0; c < teste.Length; c++)
+            {
+                teste[c] = c + 2;
+                Console.WriteLine(teste[c]);
+            }
+            
+            Console.ReadLine();
+
+
         }
     }
+    
 }
