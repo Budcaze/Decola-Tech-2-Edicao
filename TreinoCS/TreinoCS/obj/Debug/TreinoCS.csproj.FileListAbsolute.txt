@@ -1,0 +1,8 @@
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\bin\Debug\TreinoCS.exe.config
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\bin\Debug\TreinoCS.exe
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\bin\Debug\TreinoCS.pdb
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\obj\Debug\TreinoCS.csproj.AssemblyReference.cache
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\obj\Debug\TreinoCS.csproj.SuggestedBindingRedirects.cache
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\obj\Debug\TreinoCS.csproj.CoreCompileInputs.cache
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\obj\Debug\TreinoCS.exe
+E:\Decola-Tech-2-Edicao\TreinoCS\TreinoCS\obj\Debug\TreinoCS.pdb

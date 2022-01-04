@@ -10,6 +10,17 @@ namespace TreinoCS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Qual seu nome: ");
+             String x = Console.ReadLine().ToLower();
+            if (x == "dudu") {
+                Console.WriteLine("Olá, " + x);
+                    }
+            else
+            {
+                Console.WriteLine("Seu nome é feio");
+            }
+           Console.ReadLine();
+   
         }
     }
 }
